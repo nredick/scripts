@@ -1,4 +1,4 @@
-# Shell scripts 
+# Shell Scripts 
 A collection of scripts to make life more fun (and easy). Clone the repository to use any of the scripts.
 
 ## Documentation
