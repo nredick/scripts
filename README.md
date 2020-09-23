@@ -39,8 +39,9 @@ ln -s  /absolute/path/to/msg.sh /absolute/path/to/msg.sh /absolute/path/to/serve
 
 >alias login=serverlogin.sh
 
-`cd
-vim /.zshrc`
+```
+cd
+vim /.zshrc```
 
 - Reload the source file:
 
