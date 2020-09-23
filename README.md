@@ -31,13 +31,14 @@ In zsh:
 cd /usr/local/bin/
 ln -s  /absolute/path/to/msg.sh /absolute/path/to/msg.sh /absolute/path/to/serverlogin.sh
 ```
+- Copy the aliases below:
 
-- Copy/paste the aliases below to your shell source file and save (:wq):
->alias msg=msg.sh
-
->alias fmsg=fortune_msg.sh
-
->alias login=serverlogin.sh
+```
+alias msg=msg.sh
+alias fmsg=fortune_msg.sh
+alias login=serverlogin.sh
+```
+- Paste to your shell source file and save (:wq):
 
 ```
 cd
