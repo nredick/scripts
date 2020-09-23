@@ -46,7 +46,7 @@ vim .zshrc
 
 - Reload the source file:
 
-`source /.zshrc`
+`source .zshrc`
 
 ## Repository Organization
 __msg.sh__
