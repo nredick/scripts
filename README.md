@@ -7,9 +7,12 @@ A collection of scripts to make life more fun (and easy). Clone the repository t
 __Session aliases:__
 - Note the script path.
 - These aliases will delete after your session ends.
-```alias msg=./msg.sh
+
+```
+alias msg=./msg.sh
 alias fmsg=./fortune_msg.sh
-alias login=./serverlogin.sh```
+alias login=./serverlogin.sh
+```
 
 __Permanent aliases:__
 - add aliases to your shell source file
@@ -17,7 +20,8 @@ __Permanent aliases:__
 In zsh:
 - Set up symbolic links to the files in /usr/local/bin:
 
-```cd /usr/local/bin/
+```
+cd /usr/local/bin/
 ln -s  /absolute/path/to/msg.sh /absolute/path/to/msg.sh /absolute/path/to/serverlogin.sh
 ```
 
