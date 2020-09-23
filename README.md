@@ -2,6 +2,13 @@
 A collection of scripts to make life more fun (and easy). Clone the repository to use any of the scripts.
 
 ## Documentation
+*Change the file permissions:*
+
+```
+chmod u=rwx ./msg.sh
+chmod u=rwx ./fortune_msg.sh
+chmod u=rwx ./serverlogin.sh
+```
 *Setting up aliases and symbolic links for scripts:*
 
 __Session aliases:__
