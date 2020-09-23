@@ -2,16 +2,16 @@
 A collection of scripts to make life more fun (and easy). Clone the repository to use any of the scripts.
 
 ## Documentation
-*Change the file permissions:*
+__Change the file permissions:__
 
 ```
 chmod u=rwx ./msg.sh
 chmod u=rwx ./fortune_msg.sh
 chmod u=rwx ./serverlogin.sh
 ```
-*Setting up aliases and symbolic links for scripts:*
+__Setting up aliases and symbolic links for scripts:__
 
-__Session aliases:__
+*Session aliases:*
 - Note the script path.
 - These aliases will delete after your session ends.
 
@@ -21,7 +21,7 @@ alias fmsg=./fortune_msg.sh
 alias login=./serverlogin.sh
 ```
 
-__Permanent aliases:__
+*Permanent aliases:*
 - add aliases to your shell source file
 
 In zsh:
