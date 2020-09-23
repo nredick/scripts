@@ -2,7 +2,7 @@
 A collection of scripts to make life more fun (and easy). Clone the repository to use any of the scripts.
 
 ## Documentation:
-*Setting up aliases and symbolic links for scripts*
+*Setting up aliases and symbolic links for scripts:*
 
 __Session aliases:__
 - Note the script path.
