@@ -41,7 +41,8 @@ ln -s  /absolute/path/to/msg.sh /absolute/path/to/msg.sh /absolute/path/to/serve
 
 ```
 cd
-vim .zshrc```
+vim .zshrc
+```
 
 - Reload the source file:
 
