@@ -79,3 +79,8 @@ A script to enter your username and password to ssh into a server.
 Or, without alias:
 
 `./serverlogin.sh`
+
+__/bckgrnd__
+A program that automatically switches between two pictures at 07:00 and 15:00 everyday. To use, replace IMG1.jpeg (07 to 15) with the desired image (keep the name the same) and repeat for IMG2.jpeg (15 to 07)
+
+then run the ./setup.sh file. 
