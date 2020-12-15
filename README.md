@@ -52,13 +52,13 @@ vim .zshrc
 ## Repository Organization
 __msg.sh__
 A shell script that uses an osascript to send iMessages from the command line. (macIOS users only) 
-The script takes two arguments, a message and a contact name from your Address Book (case sensitive).
+The script takes two arguments, a message and a phone number.
 
-`msg 'hello world!' 'Contact Name'`
+`msg 'hello world!' 'Phone NUmber'`
 
 Or, without alias:
 
-`./msg.sh 'hello world!' 'Contact Name'`
+`./msg.sh 'hello world!' 'Phone Number'`
 
 __fortune_msg.sh__
 A shell script that uses the [fortune](https://linux.die.net/man/6/fortune) command to send random quotations to someone in your Addresss Book. (macIOS users only) 
