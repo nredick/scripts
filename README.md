@@ -1,5 +1,5 @@
 # Shell Scripts 
-A collection of scripts to make life more fun (and easy). Clone the repository to use any of the scripts.
+A collection of scripts to make life more fun (and easy).
 
 ## Documentation
 __Change the file permissions:__
