@@ -1,4 +1,4 @@
-!#/bin/sh 
+#!/bin/bash
 
 # login to aws ec2 instances (ubuntu) by passing the ip 
 
